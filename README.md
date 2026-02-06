@@ -28,3 +28,4 @@ During the development process, I learned how WebSockets differ from traditional
 
 Overall, this task helped me understand the complete flow of a real-time web application, from backend server setup to frontend user interaction. The real-time chat application successfully meets the task requirements by providing instant messaging, message history, and a responsive interface. This project enhanced my practical knowledge of web development and real-time communication technologies and is a valuable learning experience during my internship.##
 
+OUTOUT - <img width="912" height="761" alt="Image" src="https://github.com/user-attachments/assets/62ee419b-1a73-4906-82ff-35b6c13e1a87" />
